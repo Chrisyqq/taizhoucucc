@@ -2,7 +2,7 @@
 * @Author: chrisyqq
 * @Date:   2016-08-08 10:54:29
 * @Last Modified by:   chrisyqq
-* @Last Modified time: 2016-08-10 14:24:18
+* @Last Modified time: 2016-08-10 11:37:30
 */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 	margin: 0;padding: 0;border: 0;outline: 0;font-weight: inherit;font-style: inherit;font-size: 100%;font-family: inherit;vertical-align: baseline;}
@@ -113,26 +113,4 @@ div.ruler div.cursor {height:20px; width:30px; background-color:#3C6E31; color:w
 	border-radius: 10px;
 	border:solid 1px #dddddd;
 	/* margin-left: 5%; */
-}
-
-/* management */
-.management-control-group input{
-	width: 190px;
-}
-.management-control-group textarea{
-	width: 690px;
-	height: 80px;
-}
-.management-modal{
-	width: 800px !important;
-	margin-left: -400px !important;
-}
-.management-table-in{
-	width: 380px !important;
-	float: left;
-}
-.management-table-out{
-	float: left;
-	margin-left: 10px;
-	width: 380px !important;
 }
